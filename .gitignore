@@ -1,0 +1,23 @@
+# Virtual environment
+env/
+.venv/
+venv/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment variables
+.env
+.env.local
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+pipfile
+pipfile.lock
